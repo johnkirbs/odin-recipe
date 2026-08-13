@@ -1,3 +1,3 @@
 # odin-recipe
 
-This section intended to test the users HTML Foundation by developing a Project.
+This section is intended to test the users HTML Foundation by developing a Project.
